@@ -1,7 +1,7 @@
 👋 Hi, I'm Rajan Mishra (@rajanmishra)
 
 👀 About Me
-I'm a passionate software engineer with extensive experience in backend development, distributed systems, cloud infrastructure and front-end technologies. I love solving complex problems, optimizing performance, and building scalable, reliable systems. My expertise lies in Node.js(Javascript/TypeScript), Golang, PHP, but I am always exploring new technologies and methodologies to stay ahead in the tech world.
+I'm a passionate software engineer with extensive experience in backend development, distributed systems, cloud infrastructure and front-end technologies. I love solving complex problems, optimizing performance, and building scalable, reliable systems. My expertise lies in Node.js(Javascript/TypeScript), Golang, Python, PHP, but I am always exploring new technologies and methodologies to stay ahead in the tech world.
 
 🔭 Currently Working On: Enhancing scalable platforms and cloud-native applications.
 
