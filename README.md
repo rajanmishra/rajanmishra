@@ -30,7 +30,7 @@ Innovative tech solutions that solve real-world problems and enhance user experi
 
 Email: rajanmishra2010@hotmail.com
 
-LinkedIn: [your LinkedIn profile link](https://www.linkedin.com/in/rajanmishra2010)
+LinkedIn: [LinkedIn profile link](https://www.linkedin.com/in/rajanmishra2010)
 
 GitHub: Feel free to open an issue if you want to discuss something!
 
